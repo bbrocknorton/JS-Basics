@@ -56,6 +56,8 @@ parameter - when we’re defining a function/variable, creates the variable insi
 
 argument - when we’re actually calling the function
 
+They refer to the same thing, just at different times.
+
 
 //Next problem
 
